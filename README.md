@@ -1,2 +1,3 @@
-# training-on-linux-foundation
-Training on Linux Foundation
+# Training on Linux Foundation
+
+- Introduction to Node.js - LFW111
